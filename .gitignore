@@ -6,3 +6,5 @@ dist-ssr
 .vite
 dev-dist
 *.tsbuildinfo
+.mcp.json
+.playwright-mcp

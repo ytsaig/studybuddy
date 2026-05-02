@@ -1,0 +1,811 @@
+{
+  "id": "german-2-alternative-final",
+  "name": "German 2: Alternative Final (Verbs)",
+  "createdAt": "2026-05-02",
+  "cards": [
+    {
+      "front": "to begin",
+      "back": "anfangen, angefangen"
+    },
+    {
+      "front": "to answer",
+      "back": "antworten, geantwortet"
+    },
+    {
+      "front": "to get dressed",
+      "back": "sich anziehen, sich angezogen"
+    },
+    {
+      "front": "to work",
+      "back": "arbeiten, gearbeitet"
+    },
+    {
+      "front": "to bake",
+      "back": "backen, gebacken"
+    },
+    {
+      "front": "to stipulate, create a condition",
+      "back": "bedingen, bedungen"
+    },
+    {
+      "front": "to order, command",
+      "back": "befehlen, befohlen"
+    },
+    {
+      "front": "to greet/welcome someone",
+      "back": "begrüßen, begrüßt"
+    },
+    {
+      "front": "to bite",
+      "back": "beißen, gebissen"
+    },
+    {
+      "front": "to salvage something",
+      "back": "bergen, geborgen"
+    },
+    {
+      "front": "to burst, explode",
+      "back": "platzen, geplatzt"
+    },
+    {
+      "front": "to pray",
+      "back": "beten, gebetet"
+    },
+    {
+      "front": "to deceive, cheat",
+      "back": "betrügen, betrogen"
+    },
+    {
+      "front": "to move, shake",
+      "back": "bewegen, bewegt"
+    },
+    {
+      "front": "to be located",
+      "back": "sich befinden, sich befunden"
+    },
+    {
+      "front": "to bend",
+      "back": "biegen, gebogen"
+    },
+    {
+      "front": "to offer",
+      "back": "bieten, geboten"
+    },
+    {
+      "front": "to bind, tie",
+      "back": "binden, gebunden"
+    },
+    {
+      "front": "to ask for, request",
+      "back": "bitten, gebeten"
+    },
+    {
+      "front": "to blow",
+      "back": "blasen, geblasen"
+    },
+    {
+      "front": "to stay",
+      "back": "bleiben, geblieben"
+    },
+    {
+      "front": "to roast",
+      "back": "braten, gebraten"
+    },
+    {
+      "front": "to need",
+      "back": "brauchen, gebraucht"
+    },
+    {
+      "front": "to break",
+      "back": "brechen, gebrochen"
+    },
+    {
+      "front": "to burn",
+      "back": "brennen, gebrannt"
+    },
+    {
+      "front": "to bring",
+      "back": "bringen, gebracht"
+    },
+    {
+      "front": "to think",
+      "back": "denken, gedacht"
+    },
+    {
+      "front": "to urge, press forward",
+      "back": "dringen, gedrungen"
+    },
+    {
+      "front": "to be permitted, may",
+      "back": "dürfen, gedurft"
+    },
+    {
+      "front": "to host someone, receive",
+      "back": "empfangen, empfangen"
+    },
+    {
+      "front": "to recommend",
+      "back": "empfehlen, empfohlen"
+    },
+    {
+      "front": "to become extinguished, dim out",
+      "back": "erlöschen, erloschen"
+    },
+    {
+      "front": "to be frightened",
+      "back": "erschrecken, erschrocken"
+    },
+    {
+      "front": "to consider, ponder",
+      "back": "erwägen, erwogen"
+    },
+    {
+      "front": "to eat",
+      "back": "essen, gegessen"
+    },
+    {
+      "front": "to drive, go",
+      "back": "fahren, gefahren"
+    },
+    {
+      "front": "to fall",
+      "back": "fallen, gefallen"
+    },
+    {
+      "front": "to catch",
+      "back": "fangen, gefangen"
+    },
+    {
+      "front": "to fight, fence",
+      "back": "fechten, gefochten"
+    },
+    {
+      "front": "to find",
+      "back": "finden, gefunden"
+    },
+    {
+      "front": "to fly",
+      "back": "fliegen, geflogen"
+    },
+    {
+      "front": "to flee",
+      "back": "fliehen, geflohen"
+    },
+    {
+      "front": "to flow",
+      "back": "fließen, geflossen"
+    },
+    {
+      "front": "to ask (a question)",
+      "back": "fragen, gefragt"
+    },
+    {
+      "front": "to feed, devour (act of an animal)",
+      "back": "fressen, gefressen"
+    },
+    {
+      "front": "to freeze",
+      "back": "frieren, gefroren"
+    },
+    {
+      "front": "to ferment",
+      "back": "gären, gegoren"
+    },
+    {
+      "front": "to give birth to",
+      "back": "gebären, geboren"
+    },
+    {
+      "front": "to give",
+      "back": "geben, gegeben"
+    },
+    {
+      "front": "to thrive, prosper",
+      "back": "gedeihen, gediehen"
+    },
+    {
+      "front": "to be pleasing, like",
+      "back": "gefallen, gefallen"
+    },
+    {
+      "front": "to go, walk",
+      "back": "gehen, gegangen"
+    },
+    {
+      "front": "to succeed",
+      "back": "gelingen, gelungen"
+    },
+    {
+      "front": "to be valid, be worth, hold good",
+      "back": "gelten, gegolten"
+    },
+    {
+      "front": "to recover",
+      "back": "genesen, genesen"
+    },
+    {
+      "front": "to enjoy",
+      "back": "genießen, genossen"
+    },
+    {
+      "front": "to get into, turn out",
+      "back": "geraten, geraten"
+    },
+    {
+      "front": "to happen, come to pass",
+      "back": "geschehen, geschehen"
+    },
+    {
+      "front": "to win, gain",
+      "back": "gewinnen, gewonnen"
+    },
+    {
+      "front": "to pour, cast (metal)",
+      "back": "gießen, gegossen"
+    },
+    {
+      "front": "to believe",
+      "back": "glauben, geglaubt"
+    },
+    {
+      "front": "to equal, resemble",
+      "back": "gleichen, geglichen"
+    },
+    {
+      "front": "to slide, glide",
+      "back": "gleiten, geglitten"
+    },
+    {
+      "front": "to dig",
+      "back": "graben, gegraben"
+    },
+    {
+      "front": "to grab, grasp",
+      "back": "greifen, gegriffen"
+    },
+    {
+      "front": "to have",
+      "back": "haben, gehabt"
+    },
+    {
+      "front": "to hold, keep",
+      "back": "halten, gehalten"
+    },
+    {
+      "front": "to hang",
+      "back": "hängen, gehangen"
+    },
+    {
+      "front": "to strike, chop",
+      "back": "hauen, gehauen"
+    },
+    {
+      "front": "to lift, raise",
+      "back": "heben, gehoben"
+    },
+    {
+      "front": "to be called, be named",
+      "back": "heißen, geheißen"
+    },
+    {
+      "front": "to help",
+      "back": "helfen, geholfen"
+    },
+    {
+      "front": "to hear",
+      "back": "hören, gehört"
+    },
+    {
+      "front": "to be interested in",
+      "back": "sich interessieren, sich interessiert"
+    },
+    {
+      "front": "to buy",
+      "back": "kaufen, gekauft"
+    },
+    {
+      "front": "to know (be familiar with something)",
+      "back": "kennen, gekannt"
+    },
+    {
+      "front": "to get to know, meet (someone)",
+      "back": "kennenlernen, kennengelernt"
+    },
+    {
+      "front": "to ring, sound",
+      "back": "klingen, geklungen"
+    },
+    {
+      "front": "to come",
+      "back": "kommen, gekommen"
+    },
+    {
+      "front": "to be able, know (a skill)",
+      "back": "können, gekonnt"
+    },
+    {
+      "front": "to creep, crawl",
+      "back": "kriechen, gekrochen"
+    },
+    {
+      "front": "to smile",
+      "back": "lächeln, gelächelt"
+    },
+    {
+      "front": "to laugh",
+      "back": "lachen, gelacht"
+    },
+    {
+      "front": "to invite; cite, summon",
+      "back": "laden, geladen"
+    },
+    {
+      "front": "to let, leave, allow, abandon, have something done (with infinitive)",
+      "back": "lassen, gelassen"
+    },
+    {
+      "front": "to run, walk",
+      "back": "laufen, gelaufen"
+    },
+    {
+      "front": "to lay, put, place, deposit",
+      "back": "legen, gelegt"
+    },
+    {
+      "front": "to suffer",
+      "back": "leiden, gelitten"
+    },
+    {
+      "front": "to lend, borrow from, hire",
+      "back": "leihen, geliehen"
+    },
+    {
+      "front": "to read",
+      "back": "lesen, gelesen"
+    },
+    {
+      "front": "to love",
+      "back": "lieben, geliebt"
+    },
+    {
+      "front": "to lie, rest, be situated",
+      "back": "liegen, gelegen"
+    },
+    {
+      "front": "to tell a lie",
+      "back": "lügen, gelogen"
+    },
+    {
+      "front": "to make, to do",
+      "back": "machen, gemacht"
+    },
+    {
+      "front": "to mill, grind",
+      "back": "mahlen, gemahlen"
+    },
+    {
+      "front": "to avoid, shun",
+      "back": "meiden, gemieden"
+    },
+    {
+      "front": "to measure",
+      "back": "messen, gemessen"
+    },
+    {
+      "front": "to like, want, may",
+      "back": "mögen, gemocht"
+    },
+    {
+      "front": "to have to, must",
+      "back": "müssen, gemusst"
+    },
+    {
+      "front": "to take",
+      "back": "nehmen, genommen"
+    },
+    {
+      "front": "to name, call",
+      "back": "nennen, genannt"
+    },
+    {
+      "front": "to whistle",
+      "back": "pfeifen, gepfiffen"
+    },
+    {
+      "front": "to praise, commend",
+      "back": "preisen, gepriesen"
+    },
+    {
+      "front": "to gush, spring from",
+      "back": "quellen, gequollen"
+    },
+    {
+      "front": "to advise, guess",
+      "back": "raten, geraten"
+    },
+    {
+      "front": "to rain",
+      "back": "regnen, geregnet"
+    },
+    {
+      "front": "to rub",
+      "back": "reiben, gerieben"
+    },
+    {
+      "front": "to tear, rip",
+      "back": "reißen, gerissen"
+    },
+    {
+      "front": "to ride (on horse)",
+      "back": "reiten, geritten"
+    },
+    {
+      "front": "to run, race",
+      "back": "rennen, gerannt"
+    },
+    {
+      "front": "to smell",
+      "back": "riechen, gerochen"
+    },
+    {
+      "front": "to struggle, wrestle, wring",
+      "back": "ringen, gerungen"
+    },
+    {
+      "front": "to run (of fluids), flow, drip",
+      "back": "rinnen, geronnen"
+    },
+    {
+      "front": "to call, shout",
+      "back": "rufen, gerufen"
+    },
+    {
+      "front": "to talk",
+      "back": "reden, geredet"
+    },
+    {
+      "front": "to drink (of animals), drink to excess",
+      "back": "saufen, gesoffen"
+    },
+    {
+      "front": "to suck, absorb",
+      "back": "saugen, gesaugt"
+    },
+    {
+      "front": "to create",
+      "back": "schaffen, geschaffen"
+    },
+    {
+      "front": "to do, work, accomplish",
+      "back": "schaffen, geschafft"
+    },
+    {
+      "front": "to separate, part, divide, go away",
+      "back": "scheiden, geschieden"
+    },
+    {
+      "front": "to shine, seem",
+      "back": "scheinen, geschienen"
+    },
+    {
+      "front": "to scold, reproach",
+      "back": "schelten, gescholten"
+    },
+    {
+      "front": "to push, shove, move, profiteer",
+      "back": "schieben, geschoben"
+    },
+    {
+      "front": "to shoot",
+      "back": "schießen, geschossen"
+    },
+    {
+      "front": "to sleep",
+      "back": "schlafen, geschlafen"
+    },
+    {
+      "front": "to hit, beat, strike",
+      "back": "schlagen, geschlagen"
+    },
+    {
+      "front": "to sneak, creep",
+      "back": "schleichen, geschlichen"
+    },
+    {
+      "front": "to grind, polish, slide",
+      "back": "schleifen, geschliffen"
+    },
+    {
+      "front": "to drag, to dismantle",
+      "back": "schleppen, geschleppt"
+    },
+    {
+      "front": "to close, conclude, shut, lock",
+      "back": "schließen, geschlossen"
+    },
+    {
+      "front": "to gulp, devour, weave",
+      "back": "schlingen, geschlungen"
+    },
+    {
+      "front": "to fling, hurl",
+      "back": "schmeißen, geschmissen"
+    },
+    {
+      "front": "to melt",
+      "back": "schmelzen, geschmolzen"
+    },
+    {
+      "front": "to cut",
+      "back": "schneiden, geschnitten"
+    },
+    {
+      "front": "to snow",
+      "back": "schneien, geschneit"
+    },
+    {
+      "front": "to write",
+      "back": "schreiben, geschrieben"
+    },
+    {
+      "front": "to shout, scream, shriek, cry",
+      "back": "schreien, geschrien"
+    },
+    {
+      "front": "to stride",
+      "back": "schreiten, geschritten"
+    },
+    {
+      "front": "to be silent",
+      "back": "schweigen, geschwiegen"
+    },
+    {
+      "front": "to swell, rise, increase in size",
+      "back": "schwellen, geschwollen"
+    },
+    {
+      "front": "to swim, float",
+      "back": "schwimmen, geschwommen"
+    },
+    {
+      "front": "to disappear, dwindle",
+      "back": "schwinden, geschwunden"
+    },
+    {
+      "front": "to swing",
+      "back": "schwingen, geschwungen"
+    },
+    {
+      "front": "to curse, swear",
+      "back": "schwören, geschworen"
+    },
+    {
+      "front": "to see, realize",
+      "back": "sehen, gesehen"
+    },
+    {
+      "front": "to be, *have",
+      "back": "sein, gewesen"
+    },
+    {
+      "front": "to send, transmit",
+      "back": "senden, gesandt"
+    },
+    {
+      "front": "to sit down",
+      "back": "sich setzen, sich gesetzt"
+    },
+    {
+      "front": "to boil, seethe, simmer",
+      "back": "sieden, gesotten"
+    },
+    {
+      "front": "to sing",
+      "back": "singen, gesungen"
+    },
+    {
+      "front": "to sink",
+      "back": "sinken, gesunken"
+    },
+    {
+      "front": "to think, reflect, plan",
+      "back": "sinnen, gesonnen"
+    },
+    {
+      "front": "to sit",
+      "back": "sitzen, gesessen"
+    },
+    {
+      "front": "to be, be supposed to, ought, be said to, be expected to",
+      "back": "sollen, gesollt"
+    },
+    {
+      "front": "to split, cleave",
+      "back": "spalten, gespalten"
+    },
+    {
+      "front": "to play",
+      "back": "spielen, gespielt"
+    },
+    {
+      "front": "to spin",
+      "back": "spinnen, gesponnen"
+    },
+    {
+      "front": "to speak",
+      "back": "sprechen, gesprochen"
+    },
+    {
+      "front": "to sprout, bud",
+      "back": "sprießen, gesprossen"
+    },
+    {
+      "front": "to jump, leap, spring",
+      "back": "springen, gesprungen"
+    },
+    {
+      "front": "to sting, prick, stab",
+      "back": "stechen, gestochen"
+    },
+    {
+      "front": "to stand, be located",
+      "back": "stehen, gestanden"
+    },
+    {
+      "front": "to steal",
+      "back": "stehlen, gestohlen"
+    },
+    {
+      "front": "to climb, increase, rise",
+      "back": "steigen, gestiegen"
+    },
+    {
+      "front": "to put, place",
+      "back": "stellen, gestellt"
+    },
+    {
+      "front": "to die",
+      "back": "sterben, gestorben"
+    },
+    {
+      "front": "to push, shove, thrust",
+      "back": "stoßen, gestoßen"
+    },
+    {
+      "front": "to strike, cancel, paint",
+      "back": "streichen, gestrichen"
+    },
+    {
+      "front": "to quarrel, dispute",
+      "back": "streiten, gestritten"
+    },
+    {
+      "front": "to study, be at college",
+      "back": "studieren, studiert"
+    },
+    {
+      "front": "to seek, look for",
+      "back": "suchen, gesucht"
+    },
+    {
+      "front": "to carry, bear, wear",
+      "back": "tragen, getragen"
+    },
+    {
+      "front": "to meet, hit",
+      "back": "treffen, getroffen"
+    },
+    {
+      "front": "to drive, push, propel",
+      "back": "treiben, getrieben"
+    },
+    {
+      "front": "to step, kick",
+      "back": "treten, getretet"
+    },
+    {
+      "front": "to drink",
+      "back": "trinken, getrunken"
+    },
+    {
+      "front": "to do, make, put",
+      "back": "tun, getan"
+    },
+    {
+      "front": "to overcome, conquer",
+      "back": "überwinden, überwunden"
+    },
+    {
+      "front": "to interrupt",
+      "back": "unterbrechen, unterbrochen"
+    },
+    {
+      "front": "to ruin, spoil, perish",
+      "back": "verderben, verdorben"
+    },
+    {
+      "front": "to annoy, vex, displease, grieve",
+      "back": "verdrießen, verdrossen"
+    },
+    {
+      "front": "to forget, neglect",
+      "back": "vergessen, vergessen"
+    },
+    {
+      "front": "to lose",
+      "back": "verlieren, verloren"
+    },
+    {
+      "front": "to understand",
+      "back": "verstehen, verstanden"
+    },
+    {
+      "front": "to pardon, forgive, excuse",
+      "back": "verzeihen, verziehen"
+    },
+    {
+      "front": "to grow",
+      "back": "wachsen, gewachsen"
+    },
+    {
+      "front": "to wash",
+      "back": "waschen, gewaschen"
+    },
+    {
+      "front": "to yield, give way",
+      "back": "weichen, gewichen"
+    },
+    {
+      "front": "to point out, show",
+      "back": "weisen, gewiesen"
+    },
+    {
+      "front": "to turn",
+      "back": "wenden, gewandt"
+    },
+    {
+      "front": "to recruit, court, woo, solicit",
+      "back": "werben, geworben"
+    },
+    {
+      "front": "to become, shall or will*, be**",
+      "back": "werden, geworden"
+    },
+    {
+      "front": "to throw, hurl, fling",
+      "back": "werfen, geworfen"
+    },
+    {
+      "front": "to repeat",
+      "back": "wiederholen, wiederholt"
+    },
+    {
+      "front": "to bring or fetch back",
+      "back": "wiederbringen, wiedergebracht"
+    },
+    {
+      "front": "to weigh",
+      "back": "wiegen, gewogen"
+    },
+    {
+      "front": "to know (a fact)",
+      "back": "wissen, gewusst"
+    },
+    {
+      "front": "to want, intend",
+      "back": "wollen, gewollt"
+    },
+    {
+      "front": "to show, indicate, point out",
+      "back": "zeigen, gezeigt"
+    },
+    {
+      "front": "to draw, pull, tug, extract, bring up, move, go",
+      "back": "ziehen, gezogen"
+    },
+    {
+      "front": "to force, compel",
+      "back": "zwingen, gezwungen"
+    }
+  ]
+}

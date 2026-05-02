@@ -1,0 +1,95 @@
+{
+  "id": "unit-7-exponential-functions",
+  "name": "Unit 7: Exponential Functions",
+  "createdAt": "2026-05-02",
+  "cards": [
+    {
+      "front": "Feta's weight changed from $2$ ounces to $6$ ounces. What is the **percent change**?",
+      "back": "$200\\%$ increase"
+    },
+    {
+      "front": "Feta's weight went from $6$ ounces down to $4$ ounces. What is the **percent change**?",
+      "back": "$33\\tfrac{1}{3}\\%$ decrease"
+    },
+    {
+      "front": "There were $1500$ roaches in a tree, growing at $12\\%$ per week. Write an **equation** to model the growth.",
+      "back": "$y = 1500(1.12)^x$"
+    },
+    {
+      "front": "Roaches grow by $y = 1500(1.12)^x$ per week starting at $1500$. When will there be $10{,}000$ roaches?",
+      "back": "Between $16$ and $17$ weeks"
+    },
+    {
+      "front": "A roach population is modeled by $R = 1250(0.975)^x$ (where $x$ is days). What is the **decay rate**?",
+      "back": "$2.5\\%$"
+    },
+    {
+      "front": "A roach population is modeled by $R = 1250(0.975)^x$. What is the **decay factor**?",
+      "back": "$0.975$"
+    },
+    {
+      "front": "A roach population is modeled by $R = 1250(0.975)^x$. How long until there are only $1000$ roaches?",
+      "back": "$9$ days"
+    },
+    {
+      "front": "A roach population is modeled by $R = 1250(0.975)^x$. What is the **half-life**?",
+      "back": "Between $27$ and $28$ days"
+    },
+    {
+      "front": "Is $f(x) = 0.7(1.2)^x$ **growth** or **decay**? How do you know?",
+      "back": "**Growth** — the factor $1.2$ is greater than $1$."
+    },
+    {
+      "front": "Is $g(x) = 1.2(0.7)^x$ **growth** or **decay**? How do you know?",
+      "back": "**Decay** — the factor $0.7$ is less than $1$."
+    },
+    {
+      "front": "For $f(x) = 0.7(1.2)^x$, identify the **starting value**.",
+      "back": "$0.7$"
+    },
+    {
+      "front": "For $f(x) = 0.7(1.2)^x$, identify the **growth factor**.",
+      "back": "$1.2$"
+    },
+    {
+      "front": "For $f(x) = 0.7(1.2)^x$, identify the **growth rate**.",
+      "back": "$20\\%$"
+    },
+    {
+      "front": "For $g(x) = 1.2(0.7)^x$, identify the **starting value**.",
+      "back": "$1.2$"
+    },
+    {
+      "front": "For $g(x) = 1.2(0.7)^x$, identify the **decay factor**.",
+      "back": "$0.7$"
+    },
+    {
+      "front": "For $g(x) = 1.2(0.7)^x$, identify the **decay rate**.",
+      "back": "$30\\%$"
+    },
+    {
+      "front": "Write an equation for this table:\n\n| $x$ | $y$ |\n|---|---|\n| $1$ | $250$ |\n| $2$ | $125$ |\n| $3$ | $62.5$ |\n| $4$ | $31.25$ |",
+      "back": "$y = 500\\left(\\tfrac{1}{2}\\right)^x$"
+    },
+    {
+      "front": "Write an equation for this table:\n\n| $x$ | $y$ |\n|---|---|\n| $-1$ | $250$ |\n| $0$ | $750$ |\n| $1$ | $2250$ |\n| $2$ | $6750$ |",
+      "back": "$y = 750(3)^x$"
+    },
+    {
+      "front": "How can you tell from a **table** that a relationship is exponential?",
+      "back": "As $x$ increases in a consistent pattern (usually $+1$), $y$ is always **multiplied** by the same constant ratio."
+    },
+    {
+      "front": "How can you tell from a **graph** that a relationship is exponential?",
+      "back": "Exponential graphs are curves that are **boomerang shaped** — one bend in the middle."
+    },
+    {
+      "front": "How can you tell from an **equation** that it is exponential?",
+      "back": "The independent variable (usually $x$) is in the **exponent**."
+    },
+    {
+      "front": "How can you tell if an exponential relationship is **growth** or **decay**?",
+      "back": "If the base (multiplier) is **greater than $1$**, it's **growth**.\n\nIf it's **between $0$ and $1$**, it's **decay**."
+    }
+  ]
+}
