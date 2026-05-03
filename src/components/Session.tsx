@@ -1,9 +1,9 @@
 import { useMemo, useRef, useState } from 'react';
-import type { Deck, SessionStats } from '../types';
+import type { Card, SessionStats } from '../types';
 import { CardView } from './CardView';
 
 type Props = {
-  deck: Deck;
+  cards: Card[];
   onExit: () => void;
   onFinish: (stats: SessionStats) => void;
 };
@@ -19,23 +19,24 @@ function shuffle<T>(arr: T[]): T[] {
   return out;
 }
 
-export function Session({ deck, onExit, onFinish }: Props) {
-  const total = deck.cards.length;
+export function Session({ cards, onExit, onFinish }: Props) {
+  const total = cards.length;
   const [queue, setQueue] = useState<QueueItem[]>(() =>
-    shuffle(deck.cards.map((_, i) => ({ cardIndex: i })))
+    shuffle(cards.map((_, i) => ({ cardIndex: i })))
   );
   const [flipped, setFlipped] = useState(false);
   const seenRef = useRef<Set<number>>(new Set());
   const missedRef = useRef<Set<number>>(new Set());
+  const passedRef = useRef<Set<number>>(new Set());
   const startedAtRef = useRef<number>(performance.now());
 
   const current = queue[0];
-  const remaining = queue.length;
-  const progressDone = total - remaining;
+  const passed = passedRef.current.size;
+  const pct = total === 0 ? 0 : Math.round((passed / total) * 100);
 
   const card = useMemo(
-    () => (current ? deck.cards[current.cardIndex] : null),
-    [current, deck.cards]
+    () => (current ? cards[current.cardIndex] : null),
+    [current, cards]
   );
 
   if (!card) {
@@ -49,12 +50,13 @@ export function Session({ deck, onExit, onFinish }: Props) {
   function handleGot() {
     if (!current) return;
     markSeen(current.cardIndex);
+    passedRef.current.add(current.cardIndex);
     const next = queue.slice(1);
     setFlipped(false);
     if (next.length === 0) {
       const elapsedMs = performance.now() - startedAtRef.current;
       const retriedCards = Array.from(missedRef.current).map(
-        (i) => deck.cards[i]
+        (i) => cards[i]
       );
       onFinish({
         totalCards: total,
@@ -82,9 +84,15 @@ export function Session({ deck, onExit, onFinish }: Props) {
 
   return (
     <div className="mx-auto flex h-full w-full max-w-xl flex-col px-5 py-4">
-      <div className="mb-4 flex items-center justify-between">
+      <div className="mb-4 flex items-center gap-3">
+        <div className="h-2 flex-1 overflow-hidden rounded-full bg-neutral-200">
+          <div
+            className="h-full bg-neutral-900 transition-[width] duration-300"
+            style={{ width: `${pct}%` }}
+          />
+        </div>
         <span className="text-sm tabular-nums text-neutral-500">
-          {progressDone} / {total}
+          {passed} / {total}
         </span>
         <button
           type="button"
